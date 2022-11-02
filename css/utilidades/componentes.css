@@ -1,3 +1,9 @@
+.container {
+  max-width: 1200px;
+  padding: 0px 20px;
+  margin: 0 auto;
+}
+
 .botao {
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
   display: inline-block;
