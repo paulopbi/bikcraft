@@ -24,6 +24,7 @@
   position: relative;
   display: inline-block;
   padding: 16px 0;
+  color: #ffffff;
 }
 
 .header-menu li a::after {
