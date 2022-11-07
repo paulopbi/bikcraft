@@ -5,6 +5,7 @@
 }
 
 .botao {
+  max-width: max-content;
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
   display: inline-block;
   padding: 16px 32px;
@@ -18,6 +19,15 @@
 
 .botao:hover {
   background: linear-gradient(#ffb60d, #e59317);
+}
+
+.botao.secundario {
+  color: var(--cor-c2);
+  background: var(--cor-c10);
+}
+
+.botao.secundario:hover {
+  background: var(--cor-c9);
 }
 
 .link {
