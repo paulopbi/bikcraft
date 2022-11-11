@@ -30,3 +30,7 @@
 /*bicicleta*/
 @import url("./bicicleta/bicicleta.css");
 @import url("./bicicleta/seguro.css");
+
+/*contato*/
+@import url("../css/contato/contato.css");
+@import url("../css/contato/lojas.css");
