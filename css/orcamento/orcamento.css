@@ -37,7 +37,6 @@
   align-content: flex-start;
   gap: 20px;
   border-radius: 5px 0 0 5px;
-  margin-bottom: 20px;
   background: var(--cor-c12);
 }
 
