@@ -5,6 +5,10 @@
   margin: 0 auto;
 }
 
+.titulo {
+  background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
+}
+
 .botao {
   max-width: max-content;
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
