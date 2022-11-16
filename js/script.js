@@ -11,3 +11,15 @@ function ativarLinks(link) {
 }
 
 links.forEach(ativarLinks);
+
+// ativar itens do orcamento
+const parametros = new URLSearchParams(location.search);
+
+function ativarProduto(parametro) {
+  const elemento = document.getElementById(parametro);
+  if (elemento) {
+    elemento.checked = true;
+  }
+}
+
+parametros.forEach(ativarProduto);
