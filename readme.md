@@ -2,6 +2,7 @@
 
 <div align="center">
 <img src="./img/bikcraft.svg" width="150em" height="auto" alt="logo">
+</div>
 
 <a href="https://paulopbi.github.io/bikecraft/" target="_blank">
 <strong>Site completo »</strong>
