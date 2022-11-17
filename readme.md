@@ -1,5 +1,6 @@
 <div id="top" align="center">
 
+<div align="center">
 <img src="./img/bikcraft.svg" width="150em" height="auto" alt="logo">
 
 <a href="https://paulopbi.github.io/bikecraft/" target="_blank">
