@@ -32,7 +32,7 @@ O codigo do site foi todo feito com **html**, **css**, **javascript** puro, o de
 
 <small>gif de demonstracao</small>
 
-<img src="./img/gifs/sobre_demo.gif" alt="gif">
+<img src="./img/outros/sobre_demo.gif" alt="gif">
 
 o projeto esta hospedado no github pages, voce pode ver mais <a href="https://paulopbi.github.io/bikecraft/" target="_blank">clicando aqui</a>.
 
