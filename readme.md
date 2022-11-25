@@ -19,6 +19,7 @@ Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para o cl
 ## Bikcraft
 
 <img src="./img/capa.png">
+
 > Capa do projeto
 
 Cada Bikcraft é única e possui a sua identidade. As medidas serão exatas para o seu corpo e altura, garantindo maior conforto e ergonomia na sua pedalada. Você pode também personalizar completamente as suas cores.
@@ -34,7 +35,8 @@ Algumas vantagens de se ter uma bikcraft:
 O código do site foi todo feito com **html**, **css**, **javascript** puro, o design foi feito no **figma**, a interface é bem completa, possuindo várias páginas internas, **sendo 100% responsivo** a todos os tamanhos de telas! E ainda possui **formulários** bem complexos e personalizados. <br>
 
 <img src="./img/outros/sobre_demo.gif" alt="gif">
->gif de demonstração.
+
+> gif de demonstração.
 
 o projeto está hospedado no github pages, você pode ver mais <a href="https://paulopbi.github.io/bikcraft/" target="_blank">clicando aqui</a>.
 <br>
