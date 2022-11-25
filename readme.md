@@ -4,7 +4,7 @@
 <img src="./img/bikcraft.svg" width="150em" height="auto" alt="logo">
 </div>
 
-<a href="https://paulopbi.github.io/bikecraft/" target="_blank">
+<a href="https://paulopbi.github.io/bikcraft/" target="_blank">
 <strong>Site completo »</strong>
 </a>
 
@@ -13,12 +13,13 @@ Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para o cl
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
 <a href="https://github.com/paulopbi" target="_blank">Github</a> •
 <a href="https://www.behance.net/paulopbi" target="_blank">Behance</a> •
-<a href="https://www.instagram.com/paulopbi_/" target="_blank">Instagram</a>
+<a href="https://github.com/paulopbi/bikcraft-landing-page/tree/main" target="_blank">Bikcraft Landing Page</a>
 </div>
 
 ## Bikcraft
 
 <img src="./img/capa.png">
+> Capa do projeto
 
 Cada Bikcraft é única e possui a sua identidade. As medidas serão exatas para o seu corpo e altura, garantindo maior conforto e ergonomia na sua pedalada. Você pode também personalizar completamente as suas cores.
 
@@ -30,15 +31,14 @@ Algumas vantagens de se ter uma bikcraft:
 
 ## Sobre o projeto
 
-O código do site foi todo feito com **html**, **css**, **javascript** puro, o design foi feito com **figma**, a interface e bem completa, possuindo várias páginas internas, **sendo 100% responsivo** a todos os tamanhos de telas, formulários bem complexos e personalizados e muitas outras coisas. <br>
-
-<small>gif de demonstração</small>
+O código do site foi todo feito com **html**, **css**, **javascript** puro, o design foi feito no **figma**, a interface é bem completa, possuindo várias páginas internas, **sendo 100% responsivo** a todos os tamanhos de telas! E ainda possui **formulários** bem complexos e personalizados. <br>
 
 <img src="./img/outros/sobre_demo.gif" alt="gif">
+>gif de demonstração.
 
-o projeto está hospedado no github pages, você pode ver mais <a href="https://paulopbi.github.io/bikecraft/" target="_blank">clicando aqui</a>.
+o projeto está hospedado no github pages, você pode ver mais <a href="https://paulopbi.github.io/bikcraft/" target="_blank">clicando aqui</a>.
 <br>
-Todo o codigo do projeto está no <a href="https://github.com/paulopbi">meu github</a>, você pode <a href="https://github.com/paulopbi/bikecraft">clique aqui para ver os codigos.</a>
+Todo o codigo do projeto está no <a href="https://github.com/paulopbi">meu github</a>, você pode <a href="https://github.com/paulopbi/bikcraft">clique aqui para ver os codigos.</a>
 
 ## Aprendizados
 O que eu aprendi com esse projeto?
